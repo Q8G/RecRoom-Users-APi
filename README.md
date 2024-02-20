@@ -46,7 +46,6 @@ C:\WINDOWS\system32> cd C:\Tool folder...
 ```
 ```
 C:\WINDOWS\system32> install.bat
-
 ```
 
 **Manually :**
