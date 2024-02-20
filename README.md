@@ -1,5 +1,3 @@
- ![Logo](https://cdn.discordapp.com/attachments/1200643028507951126/1209422595943047190/Img.png?ex=65e6dd90&is=65d46890&hm=a38bdf5d98dd91ce5372df30b147b2bb34e7b7dddd0c4131fb08092a5e1168be&)
-
 
 # **RecRoom Users APi 🔗**
 
