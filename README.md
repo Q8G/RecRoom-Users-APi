@@ -59,5 +59,5 @@ Run the install.bat file
 
 ## **Image of a Tool** 📸
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1200643028507951126/1209423870189379584/image.png?ex=65e6dec0&is=65d469c0&hm=92b449e7bf778ee7faee16920cacf2db8df09f60052f0ee14cb52515fbe82f1b&)
+![App Screenshot]([https://cdn.discordapp.com/attachments/1200643028507951126/1209820628215930913/image.png?ex=65e85043&is=65d5db43&hm=28ccd55fe6b6112003177660e51561c560ca6e3b5b6c3e814e9f97fdcf57a429&])
 
