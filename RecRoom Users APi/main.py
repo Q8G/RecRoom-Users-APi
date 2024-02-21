@@ -6,11 +6,11 @@ init()
 
 def title_update():
     while True:
-        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api > 1.0v > Github/7nun")
+        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api > 1.0v > Github/Q8G")
         time.sleep(1)
-        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api >> 1.0v >> Github/7nun")
+        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api >> 1.0v >> Github/Q8G")
         time.sleep(1)
-        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api >>> 1.0v >>> Github/7nun")
+        ctypes.windll.kernel32.SetConsoleTitleW("Rec Room Users Api >>> 1.0v >>> Github/Q8G")
         time.sleep(1)
 
 def read_website_content(url):
@@ -67,7 +67,7 @@ def tool():
         resy = f"{result_years} years, {result_months} months, and {result_days} days"
 
         isJunior = data.get('isJunior')
-        print(Fore.RESET + f" ==================" + Fore.GREEN + " @7nun " + Fore.RESET + "==================")
+        print(Fore.RESET + f" ==================" + Fore.GREEN + " @Q8G " + Fore.RESET + "==================")
         print(Fore.LIGHTMAGENTA_EX + f"\n\n ID: " + Fore.GREEN + f"{account_id}\n")
         print(Fore.LIGHTMAGENTA_EX + f"\n\n Username: " + Fore.GREEN + f"@{username}\n")
         print(Fore.LIGHTMAGENTA_EX + f"\n\n Display Name: " + Fore.GREEN + f"{displayName}\n")
@@ -79,7 +79,7 @@ def tool():
         print(Fore.LIGHTMAGENTA_EX + f"\n\n Date the account was created: " + Fore.GREEN + f"{createdAt1}-{createdAt2}-{createdAt3}\n")
         is_junior_text = "Yes" if isJunior else "No"
         print(Fore.LIGHTMAGENTA_EX + f"\n\n Junior Account: " + Fore.GREEN + f"{is_junior_text}\n\n")
-        print(Fore.RESET + f" ===================" + Fore.RED + " End " + Fore.RESET + f"===================\n")
+        print(Fore.RESET + f" ===================" + Fore.RED + " End " + Fore.RESET + f"==================\n")
         again()
     else:
         print(Fore.RED + f" Not Found" + Fore.RESET)
